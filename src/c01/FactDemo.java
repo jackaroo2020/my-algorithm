@@ -5,7 +5,7 @@ package c01;
  * @author  LT
  * @date  2020/3/28
  */
-public class Demo {
+public class FactDemo {
 
     public static int fact(int n){
         if (n ==1) {

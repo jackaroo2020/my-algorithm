@@ -8,7 +8,7 @@ import java.util.ArrayList;
  * @author  LT
  * @date  2020/4/12
  */
-public class ArrayListDemo {
+public class ListDemo {
 
     public static void main(String[] args) {
 
